@@ -8,7 +8,9 @@ These are the link to all the Kahoot quizzes we have done (a couple of other qui
 
 # Projects
 Longer term projects that apply what we have been teaching into a real situation
-- ## [Sound Visualization](/projects/sound-visualization/)
+- ## [Animation Project](/projects/animation/animation_project.py)
+  - A basic animation of the Among Us ඞ character fading in and out. Press B button to play the animation forward (Fade in) and A button to play it backwards (Fade out).
+- ## [Sound Visualization](/projects/sound-visualization/sound_visualization.py)
   - The microbit screen will react to sounds around it detected by the microphone. The screen shows a horizontal bar representing the sound level, where 1 pixel is very low sound and 5 pixels (max) is a very high sound.
-- ## [Reaction Game](/projects/reaction-game/)
-  - Ever played Bop-it before? This project is similar. The microbit will display an action on the screen, and the player has to perform that action within the given time frame (3 seconds). If the player performs the right action they get points and a chance to do more actions. If not, the game ends and shows the score.
+- ## [Reaction Game](/projects/reaction-game/reaction_project.py)
+  - Ever played Bop-it before? This project is similar. The microbit will display an action on the screen, and the player has to perform that action within the given time frame (3 seconds). If the player performs the right action they get points and a chance to do more actions. If not, the game ends and shows the score. [Instructions](projects/reaction-game/instructions.md) to how to make the game.
