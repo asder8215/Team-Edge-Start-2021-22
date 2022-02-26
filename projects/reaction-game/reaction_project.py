@@ -48,3 +48,4 @@ while True:
             nextAction()
     else:
         display.scroll("GAME OVER Score: " + str(score))
+        break # added after so no infinite loop
