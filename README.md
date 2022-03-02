@@ -5,6 +5,7 @@ In this repository, it contains some quizzes, exercises, and projects that were 
 These are the link to all the Kahoot quizzes we have done (a couple of other quizzes were done on CodeHS):
 - ### [If Statements](https://create.kahoot.it/details/99542693-d3dc-4dfe-af81-17054151a681)
 - ### [Arithmetic and Types](https://create.kahoot.it/share/team-edge-review-kahoot/f1a834ef-0a1a-41b9-87af-6a3cc201e1cb)
+- ### [MicroBit, Comments, and Math/Logical Operators](https://create.kahoot.it/share/cumulative-kahoot-review/e3d6b838-0bc8-490d-ab43-da71064f7acc)
 
 # Projects
 Longer term projects that apply what we have been teaching into a real situation
